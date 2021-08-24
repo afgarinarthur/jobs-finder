@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Besley:wght@500&display=swap');
+
+        body {
+            background-color: rgb(16, 90, 74);
+        }
+
+        h1 {
+            font-family: "Besley";
+        }
+        
+        hr {
+            background-color: black;
+        }
+
+        h2 {
+            font-family: "Besley";
+        }
+
+        p {
+            font-family: "Besley";
+        }
